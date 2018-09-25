@@ -1,0 +1,12 @@
+D:\搜狗高速下载\task-process-master\src\tpgui\bin\Debug\tp.exe
+D:\搜狗高速下载\task-process-master\src\tpgui\bin\Debug\tp.pdb
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\tpgui.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskList.resources
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskEdit.resources
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskProcess.resources
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormTaskConfirm.resources
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.FormLinkFile.resources
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\xworks.taskprocess.Properties.Resources.resources
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\tpgui.csproj.GenerateResource.Cache
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\tp.exe
+D:\搜狗高速下载\task-process-master\src\tpgui\obj\Debug\tp.pdb
